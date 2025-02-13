@@ -4,7 +4,7 @@ At BrightHills, we bring 20+ years of Tech experience to the table, providing co
 
 ---
 
-H-9024 Győr, Vasvári Pál út 1/C
-hello@brighthills.com
-https://www.facebook.com/brighthillskft
+H-9024 Győr, Vasvári Pál út 1/C\
+hello@brighthills.com\
+https://www.facebook.com/brighthillskft\
 https://www.linkedin.com/company/brighthills/
